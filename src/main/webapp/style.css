@@ -1,0 +1,24 @@
+table {
+            border-collapse: collapse;
+            width: 100%;
+            border: 2px solid gray;
+            font-size: 15px;
+        }
+
+
+        th, td {
+            border: 1px solid gray;
+            padding: 8px;
+            text-align: center;
+        }
+
+#list th, #list td {
+background-color: green;
+            color: white;
+            border-color: white;
+        }
+
+#infoWrap{
+    width: 100%;
+    text-align: center;
+}

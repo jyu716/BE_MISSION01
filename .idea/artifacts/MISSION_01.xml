@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MISSION_01">
+    <output-path>$PROJECT_DIR$/src/main/webapp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MISSION_01.main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: com.squareup.okhttp3:okhttp:4.11.0" />
+          <element id="library" level="project" name="Gradle: org.projectlombok:lombok:1.18.28" />
+          <element id="library" level="project" name="Gradle: com.google.code.gson:gson:2.10.1" />
+          <element id="library" level="project" name="Gradle: org.xerial:sqlite-jdbc:3.43.0.0" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.20" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.20" />
+          <element id="library" level="project" name="Gradle: com.squareup.okio:okio-jvm:3.2.0" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.20" />
+          <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20" />
+          <element id="library" level="project" name="Gradle: org.jetbrains:annotations:13.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="MISSION_01.main/web/Web Gradle : MISSION_01-1.0-SNAPSHOT.war" />
+    </root>
+  </artifact>
+</component>
